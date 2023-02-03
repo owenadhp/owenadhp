@@ -1,11 +1,22 @@
 <h1 align="center">Hello! My name is Owen and welcome to my Github page!</h1>
 <h3 align="center">I am a mortgage underwriter / processor who is passionate in developing mathematical and coding skills.</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenadhp&label=Profile%20views&color=0e75b6&style=flat" alt="owenadhp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owenadhp" alt="owenadhp" /></a> </p>
+
 
 - 🔭 I’m currently working on [T-Bond Prediction](https://github.com/owenadhp/Optimal-Mortgage-Rate-Lock-In-Predictions-)
+
+- ⚡ Fun fact **I am very passionate about Anime and Online games!**
+
+
+<img align="center" alt="Fgo" width="200" src="https://media.tenor.com/VAaBTNXOZvwAAAAC/fgo-fate.gif"> 
+
+<img align="right" alt="Apex" width="200" src="https://i.pinimg.com/originals/ad/4a/2e/ad4a2ed0c90e73aabd74746f634f7327.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
